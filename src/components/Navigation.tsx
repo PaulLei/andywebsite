@@ -60,7 +60,7 @@ export default function Navigation({ scrolled }: NavigationProps) {
               {/* Products */}
               <div className="relative group">
                 <Link to="/products" className={navItemClass}>
-                  Products
+                  asdfasd
                   <ChevronDown className="w-3.5 h-3.5 opacity-70" />
                 </Link>
 
